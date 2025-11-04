@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Princess Amelia's Private Content & Yoga",
+  "description": "A showcase and request portal for Princess Amelia's private yoga videos, exclusive content, and try-on modeling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
